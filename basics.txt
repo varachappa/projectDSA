@@ -1,0 +1,14 @@
+
+by standard / default the return type of main function is int . 
+while is based on condition preferably but forloop is different if we want to certain number of iterations , 
+preprocessor can also be valid : int main()
+                {
+                #include <stdio.h>
+                    printf("Hello \n");
+                }
+
+Data Structures : Organize data 
+two types of ds : Linear and Non-Linear 
+                Linear : Arrays , structures , Unions , LinkedLists , stack , queue
+                Non-Linear : Tree , graph 
+Algorithms : Sorting and Searching.
